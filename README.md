@@ -25,12 +25,14 @@ The ID is an eight-digit code. The account version can be "real" or "demo".
 
 
 ### Example use
-Install the repository as a Python library:
-``sh
+Install the repository as a Python library
+
+```sh
 pip install git+https://github.com/LJaremek/xtb.git
 ```
 
 Use the code in your project
+
 ```python
 from xtb import XTB
 
